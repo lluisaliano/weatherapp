@@ -1,0 +1,9 @@
+.weatherImage {
+    height: 15rem;
+    margin: 0;
+}
+
+.location {
+    font-family: "Bebas Neue", sans-serif;
+    margin: -5px;
+}

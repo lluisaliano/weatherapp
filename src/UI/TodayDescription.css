@@ -1,0 +1,18 @@
+.temperatureText {
+    font-family: "Bebas Neue", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 6em;
+    font-weight: bolder;
+    margin: -70px 0 0;
+}
+
+.weatherDescription {
+    font-family: "Bebas Neue", sans-serif;
+    margin: -30px 0 0;
+    font-size: 1.3em;
+}
+
+.currentTime {
+    font-family: "Bebas Neue", sans-serif;
+    margin: -12px 0 0;
+}

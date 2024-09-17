@@ -1,0 +1,45 @@
+header  {
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 1rem;
+}
+
+.title {
+    margin-left: 2em;
+}
+
+.title h2 {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.finder {
+    margin-right: 2em;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+.finder label {
+    font-family: "Bebas Neue", sans-serif;
+    margin-right: 0.3em;
+}
+
+.finder input {
+    font-family: "Bebas Neue", sans-serif;
+    outline: 1px solid grey;
+    text-align: center;
+    border: none;
+    background: rgba(0, 0, 0, 0.31);
+}
+
+.finder input:focus {
+    outline: 1px dashed white;
+    border: none;
+}
